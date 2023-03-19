@@ -1,2 +1,3 @@
 # git_test
-First github repo
+
+includes all resources and work completed through The Odin Project.
